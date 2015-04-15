@@ -22,3 +22,5 @@
   15. refactoring of sources and additional commenting of work
   16. GitHub upload
   17. clean up
+
+Implemented as EJB application running at Glassfish server. Tested with Groovy JUnit testing
