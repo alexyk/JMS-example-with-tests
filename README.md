@@ -1,6 +1,6 @@
 # jpm #
 
-Steps of development and some arrived questions:
+### Steps of development and some arrived questions: ###
   1. extracted interfaces and classes from exercise
   2. defined interfaces and basic concept of communication
   3. defined concept for testing of solution by implementing stub of function Test
