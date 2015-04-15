@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../out/jpm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
