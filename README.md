@@ -1,4 +1,4 @@
-# jpm #
+# Java Message Services with tests #
 
 ### Steps of development and some arrived questions: ###
   1. extracted interfaces and classes from exercise
